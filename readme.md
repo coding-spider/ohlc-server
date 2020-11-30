@@ -2,7 +2,8 @@
 This required NodeJS version >= 12.13.
 
 # Setup
-- cd onlc-server && npm install
+- git clone git@github.com:coding-spider/ohlc-server.git
+- cd ohlc-server && npm install
 
 # Running the application
 - node index.js
