@@ -26,4 +26,4 @@ This required NodeJS version >= 12.13.
     This takes care of maintaining the the client subscription and sending out the packets the subscribed by the client
 
 4) pubsub.js
-    This is simple PubSub class used to manage client subscription
+    This is simple utility class PubSub used to manage client subscriptions
